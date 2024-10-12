@@ -2,7 +2,7 @@
 
 An implementation of basic concepts in Natural Language Understanding and Large Language Models.
 
-## Inspiration
+## Resources
 - [LLM from Scratch by Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch)
 - [Deep Learning Models by Sebastian Raschka](https://github.com/rasbt/deeplearning-models)
 
